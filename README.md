@@ -22,20 +22,25 @@ you have rounder characters and balanced space/height.
 
 ### `4. JetBrains Mono NL`
 Same but without merging `-` and `>` and some special characters keep original.
+
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/JetBrainsMonoNL.png)
 
 ### `5. MonoLisa`
 Serif, Type-writer like text, with round characters, balanced spacing/height, sharp text.
+
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/MonoLisa.png)
 
 ### `6. Roboto Mono`
 Mono family, Sharp, medium height/spacing, narrow character.
+
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/RobotoMono.png)
 
 ### `7. SF Mono`
 Mono Family, somewhat like Input Sans but more spacing, less height.
+
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/SFMono.png)
 
 ### `8. Source Code Pro`
 Short height but long character, with more spacing, alike to monospace but better/sharper character.
+
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/SourceCodePro.png)
