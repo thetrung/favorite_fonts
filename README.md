@@ -46,6 +46,6 @@ Short height but long character, with more spacing, alike to monospace but bette
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/SourceCodePro.png)
 
 ### `9. Fira Code` [Download ](https://github.com/thetrung/favorite_fonts/blob/main/Fira_Code_v6.2.zip)
-Source Code Pro, but on Serif with more spacing/height.
+Source Code Pro, but on Serif with more spacing/height, its repo [here](https://github.com/tonsky/FiraCode).
 
 ![img](https://github.com/thetrung/fonts/blob/main/screenshots/FiraCode.png)
